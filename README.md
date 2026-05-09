@@ -3,6 +3,7 @@
 | Student ID | Name | GitHub Username |
 |------|------|--------------|
 | 20242171 | Wu Yuanjing | Yvette1018 |
+| 20242181 | Zou Yaxian | Xenon-zyx |
 
 ## Shortcut Examples
 <kbd>Ctrl+F</kbd> Search
