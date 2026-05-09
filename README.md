@@ -3,7 +3,7 @@
 | Student ID | Name | GitHub Username |
 |------|------|--------------|
 | 20242171 | Wu Yuanjing | Yvette1018 |
-
+|20242187  | Dong Jinai  | Jinai-Dong |
 ## Shortcut Examples
 <kbd>Ctrl+F</kbd> Search
 <kbd>Ctrl+Shift+F</kbd> Global Search
